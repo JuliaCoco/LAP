@@ -1,0 +1,3 @@
+XAMPP
+MySQL Workbench (Community)
+Notepad ++
